@@ -21,7 +21,47 @@
   </header>
   <main id="main">
     <h1>Driving Techniques</h1>
-    <!-- Full-Stack: page content goes here -->
+    <p class="lead">Fast driving looks dramatic, but the best drivers are smooth and precise. These are the core skills.</p>
+
+    <section aria-labelledby="line">
+      <h2 id="line">The racing line</h2>
+      <p>The racing line is the path through a corner that lets the car carry the most speed. Drivers usually approach from the outside edge, turn in towards the inside kerb at the <strong>apex</strong> (the point of the corner closest to the inside), then let the car run wide again on exit. This makes the corner a wider, gentler arc than the track's actual shape.</p>
+      <p>The ideal line also depends on what comes next: a corner before a long straight is driven for the best exit speed.</p>
+    </section>
+
+    <section aria-labelledby="braking">
+      <h2 id="braking">Braking and trail braking</h2>
+      <p>Most braking is done in a straight line, before the corner, using firm pressure at first and then easing off as speed drops. <strong>Trail braking</strong> means keeping a little brake pressure on while turning in, releasing it gradually towards the apex. It shifts weight onto the front tyres to help the car turn, but it must be done gently to avoid a spin.</p>
+    </section>
+
+    <section aria-labelledby="throttle">
+      <h2 id="throttle">Throttle control</h2>
+      <p>Applying power too early or too hard can make the tyres lose grip. Drivers squeeze the throttle progressively on exit, matching power to the grip available.</p>
+    </section>
+
+    <section aria-labelledby="smooth">
+      <h2 id="smooth">Smooth inputs</h2>
+      <p>Steering, braking and throttle changes should be gradual. Sudden movements upset the balance of the car and wear the tyres. As the saying goes, smooth is fast.</p>
+    </section>
+
+    <section aria-labelledby="safety">
+      <h2 id="safety">Safety and gear</h2>
+      <ul>
+        <li>A certified helmet and a fire-resistant race suit, gloves and shoes.</li>
+        <li>A head and neck restraint in many types of racing.</li>
+        <li>Racing seats with multi-point harnesses, and a roll cage or strong safety cell.</li>
+        <li>Knowing the meaning of the marshals' flags, and obeying them.</li>
+      </ul>
+      <p>Beginners should learn on a track, with an instructor, rather than practising on public roads.</p>
+    </section>
+
+    <section aria-labelledby="tips">
+      <h2 id="tips">Check the corner order</h2>
+      <p>Put the steps of a corner in order:</p>
+      <ol id="corner-steps" class="steps"></ol>
+      <button type="button" id="steps-reveal">Show the answer</button>
+      <p id="steps-answer" role="status" aria-live="polite"></p>
+    </section>
   </main>
   <footer class="site-footer"><p>Race Car Driving &middot; an Orchestrate Solutions demo</p></footer>
   <script src="../js/nav.js"></script>
