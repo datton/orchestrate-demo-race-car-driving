@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-labelledby="t"><title id="t">Top-down outline of a winding race circuit with a start line</title>
+<path d="M60 190 C30 140 70 60 140 70 C190 78 190 130 240 120 C300 108 290 40 340 60 C380 78 370 170 320 200 C270 230 200 190 150 215 C110 235 80 225 60 190Z" fill="none" stroke="#1b1b20" stroke-width="30" stroke-linejoin="round"/>
+<path d="M60 190 C30 140 70 60 140 70 C190 78 190 130 240 120 C300 108 290 40 340 60 C380 78 370 170 320 200 C270 230 200 190 150 215 C110 235 80 225 60 190Z" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="10 10"/>
+<rect x="44" y="176" width="32" height="8" fill="#ffd400" transform="rotate(-62 60 190)"/>
+<circle cx="140" cy="70" r="6" fill="#d40000"/><circle cx="320" cy="200" r="6" fill="#d40000"/>
+</svg>

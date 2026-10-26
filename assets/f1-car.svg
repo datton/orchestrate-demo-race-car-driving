@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="t"><title id="t">Side view of a red open-wheel Formula 1 style race car</title>
+<ellipse cx="320" cy="200" rx="270" ry="8" fill="#000" opacity=".2"/>
+<path d="M40 150 L40 100 L120 100 L120 120 L60 125 L60 150Z" fill="#0d0d10"/>
+<rect x="30" y="92" width="110" height="12" fill="#d40000"/><rect x="36" y="80" width="6" height="40" fill="#0d0d10"/>
+<path d="M110 150 L200 118 L300 104 L350 70 L400 70 L420 100 L520 118 L590 138 L600 156 L110 156Z" fill="#d40000"/>
+<path d="M300 104 L350 70 L400 70 L420 100Z" fill="#9e0000"/>
+<path d="M335 100 Q360 62 392 78 L392 100Z" fill="#0d0d10"/><circle cx="366" cy="84" r="11" fill="#ffd400"/>
+<path d="M200 130 L520 130" stroke="#fff" stroke-width="6"/><path d="M200 140 L520 140" stroke="#ffd400" stroke-width="4"/>
+<text x="260" y="124" font-family="Arial Black,Arial,sans-serif" font-size="22" fill="#fff" font-weight="900">27</text>
+<path d="M560 150 L630 150 L630 162 L560 162Z" fill="#0d0d10"/><rect x="600" y="132" width="34" height="8" fill="#d40000"/>
+<g><circle cx="160" cy="160" r="34" fill="#0d0d10"/><circle cx="160" cy="160" r="16" fill="#cfcfd4"/><circle cx="160" cy="160" r="5" fill="#0d0d10"/>
+<circle cx="500" cy="160" r="38" fill="#0d0d10"/><circle cx="500" cy="160" r="18" fill="#cfcfd4"/><circle cx="500" cy="160" r="5" fill="#0d0d10"/></g>
+<path d="M60 168 H0 M80 178 H20" stroke="#ffd400" stroke-width="3" opacity=".7"/>
+</svg>
