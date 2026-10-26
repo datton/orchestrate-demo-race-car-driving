@@ -20,4 +20,5 @@ main button:hover { background: var(--accent-dark); border-color: var(--accent-d
 
 @media (prefers-color-scheme: dark) {
   a { color: var(--accent); }
+  main button { border-color: var(--on-dark); }
 }
