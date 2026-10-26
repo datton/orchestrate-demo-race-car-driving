@@ -17,3 +17,7 @@ main button { min-height: 44px; padding: var(--space-2) var(--space-4); backgrou
 main button:hover { background: var(--accent-dark); border-color: var(--accent-dark); }
 #quiz-result, #steps-answer { min-height: 1.6em; font-weight: 700; }
 .steps li { margin-bottom: var(--space-1); }
+
+@media (prefers-color-scheme: dark) {
+  a { color: var(--accent); }
+}
